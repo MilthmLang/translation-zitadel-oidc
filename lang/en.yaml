@@ -2,3 +2,4 @@
   The requested redirect_uri is missing in the client configuration. If you have any questions, you may contact the administrator of the application.
 : >-
   The requested redirect_uri is missing in the client configuration. If you have any questions, you may contact the administrator of the application.
+"unable to retrieve client by id": "unable to retrieve client by id"
