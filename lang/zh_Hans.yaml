@@ -1,1 +1,4 @@
-{}
+? >-
+  The requested redirect_uri is missing in the client configuration. If you have any questions, you may contact the administrator of the application.
+: "请求的 redirect_uri 未在客户端设置中出现。如有任何疑问，请联系应用程序管理员。"
+"unable to retrieve client by id": "获取客户端信息失败"
